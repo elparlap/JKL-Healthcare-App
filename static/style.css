@@ -1,0 +1,24 @@
+body {
+    font-family: 'Arial', sans-serif;
+    background: linear-gradient(to bottom right, #e3f2fd, #ffffff);
+    margin: 0;
+    padding: 0;
+}
+
+.card {
+    border-radius: 10px;
+    overflow: hidden;
+}
+
+.card-header {
+    font-size: 1.5rem;
+    font-weight: bold;
+}
+
+.card-body {
+    padding: 2rem;
+}
+
+.btn {
+    border-radius: 25px;
+}
